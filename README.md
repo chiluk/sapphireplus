@@ -4,3 +4,5 @@ Here are my Klipper configs for making the Sapphire Plus v1.1 with 3xtmc2208 + 2
 My bltouch is connected to my ZMax, adjust pinouts if yours is connected to ZMin.  All of my endstops are currently connected.
 
 Don't forget to go through initial setup and configurations on Klipper's website to make sure.
+
+My printer is currently not working because of hotend and extruder hardware problems, but the config should work once I get it the hardware figured out.
