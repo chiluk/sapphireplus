@@ -11,4 +11,6 @@ $ cp -r klipper_config ~/klipper_config
 
 Don't forget to go through initial setup and configurations on Klipper's website to make sure.
 
-My printer is currently not working because of hotend and extruder hardware problems, but the config should work once I get it the hardware figured out.
+This config is largely functional for my mostly stock printer, but the [gcode_macro] start and end sections need a bunch of work.
+
+Hopefully this helps someone.
